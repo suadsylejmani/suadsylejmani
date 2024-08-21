@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suad Sylejmani</h1>
-<h3 align="center">A passionate Software Engineer from Kosova</h3>
+<h3 align="center">A passionate Software Developer from Kosova</h3>
 
 - 🔭 I’m currently working on **Suad's Portfolio**
 
